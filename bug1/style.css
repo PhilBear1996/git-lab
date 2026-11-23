@@ -1,0 +1,4 @@
+body { font-family: "Microsoft JhengHei", sans-serif; background-color: #f0f2f5; margin: 0; line-height: 1.7; }
+header { background-color: #1f4e79; color: white; text-align: center; padding: 24px; }
+.card { background-color: white; max-width: 600px; margin: 20px auto; padding: 16px 24px; border-radius: 10px; }
+footer { text-align: center; color: #888; padding: 20px; }
